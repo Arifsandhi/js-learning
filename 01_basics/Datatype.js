@@ -1,29 +1,7 @@
-// here we are listing different type of datatype 
+// There are mainly 2 type 
+//1.premitive  , 2.Non premitive.
 
-// number size of number/ integer(c++) is 2 power 52
+//1.premitive -a.string ,b.boolean , c.Number ,d.bigInt ,e.null ,f.undefine ,g.float
 
-// BigInt 
-//boolean true/false 0/1
-
-//string 
-console.log("arif");
-
-// to check type of any data type we use (typeof )
-
-let number = 10
-let name ="arif";
-
-console.log(number);
-console.log(typeof number);
-
-//there is also an datatype called as "undefined|" ..
-
-let id;
-// here id is undefined!!!
-
-//other datatype is null,, the type  of null is object //././/.
-
-let team = null
-console.log(typeof team);
-
+//2.Nonpremitive -a.Array ,b.Objects ,c.Function.
 
